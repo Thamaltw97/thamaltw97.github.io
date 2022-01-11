@@ -1,0 +1,140 @@
+{
+  "main": {
+    "name":"Hi, I'm Thamal 😍👋",
+    "description":"Thamal is a software engineer, who is capeble of doing what you need over his technologies.",
+    "image":"thamalgradpic.png",
+    "bio":"I am Thamal Wijetunge, Software Engineering specialized graduate from SLIIT and a Associate Software Engineer at DP Infotech (Pvt) Ltd. I am a confident and proactive person, possessing an analytical bent of mind. Positive approach and problem solving are my biggest assets. With exceptional planning, execution and interpersonal skills I am hard working , innovative and self-motivated team player, Also a software developer, interested in MERN stack, Android Application Developments, JavaScript, Asp.Net MVC C#, Oracle, Java, object oriented design patterns, ERP level developments and any kind of a development.",
+    "contactmessage":"Contact me for your recruitments and other projects. Connect with me via social media.",
+    "email": "thamaltw97@outlook.com",
+    "phone": "+94-71-296-3564",
+    "github":"https://github.com/Thamaltw97",
+    "project":"https://github.com/nordicgiant2/react-nice-resume",
+    "linkedin": "https://linkedin.com/in/thamaltw97/",
+    "address":{
+      "street1":"41/1 A, Saddhasena Mawatha,",
+      "street2":"Maha Ambalangoda,",
+      "city":"Ambalangoda",
+      "state":"Southren Province,",
+      "country":"Sri Lanka",
+      "zip": "80300"
+    },
+    "website": "http://www.timbakerdev.com",
+    "resumedownload":"http://timbakerdev.com",
+    "social":[
+      {
+        "name":"facebook",
+        "url":"https://www.facebook.com/thamal.thilina",
+        "className":"fa fa-facebook"
+      },
+      {
+        "name":"twitter",
+        "url":"https://twitter.com/thamal1997",
+        "className":"fa fa-twitter"
+      },
+      {
+        "name":"linkedin",
+        "url":"https://linkedin.com/in/thamaltw97/",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"instagram",
+        "url":"https://www.instagram.com/thamaltw_97/",
+        "className":"fa fa-instagram"
+      },
+      {
+        "name":"github",
+        "url":"https://github.com/Thamaltw97",
+        "className":"fa fa-github"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"Some upto date technology skills are mentioned according to my best knowledge.",
+    "education":[
+      {
+        "school":"Sri Lanka Institute of Information Technology",
+        "degree":"Bachelor of Science (Honours) in Information Technology Specializing in Software Engineering",
+        "graduated":"July 2021",
+        "description":"• Completed the 4th year research on Intelligent system for agriculture in Sri Lanka, using Android with Java and Python with Tensorflow lite.\n• Completed 3rd year project on implementing an e-commerce site using ReactJS, NodeJS, ExpressJS and MongoDB. And completed several other projects as well."
+      },
+      {
+        "school":"Dharmasoka College",
+        "degree":"Completion of Advanced level",
+        "graduated":"August 2016",
+        "description":"• Completed the Advanced level studies on Combined Mathematics, Chemistry and Physics."
+      }
+    ],
+    "work":[
+      {
+        "company":"DP Infotech (Pvt) Ltd",
+        "title":"Associate Software Engineer",
+        "years":"October 2020 - Present",
+        "description":"• Drafted software requirements and managed software design and implementation. \n• Implemented new modules into the current ERP system. \n• Full implementation of Pearl-bay system with ERP and POS system for the David Peiris water park. \n• Developed, coordinated and conducted complex tests and debug the systems. \n• Managed software throughout SDLC and collaborated with team members to address issues. \n• Defined and continuously improved UI development best practices."
+      },
+      {
+        "company":"DP Infotech (Pvt) Ltd",
+        "title":"Trainee Software Engineer",
+        "years":"November 2019 - September 2020",
+        "description":""
+      }
+    ],
+    "skills":[
+      {
+        "name":"MERN Stack (MongoDB, ExpressJS, ReactJS, NodeJS)",
+        "level":"75%"
+      },
+      {
+        "name":"Javascript",
+        "level":"70%"
+      },
+      {
+        "name":"C#",
+        "level":"60%"
+      },
+      {
+        "name":"Java",
+        "level":"60%"
+      },
+      {
+        "name":"CSS",
+        "level":"60%"
+      },
+      {
+        "name":"Android",
+        "level":"60%"
+      },
+      {
+        "name":"Python",
+        "level":"50%"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"Mahaweli Agricultural App",
+        "category":"An Intelligent system for forecasting farmer's requirements in Mahaweli project. The research project which has been done in the 4th year of bachelors.",
+        "image":"01.jpg",
+        "url":"https://github.com/Thamaltw97/Mahaweli-Agricultural-App"
+      },
+      {
+        "title":"Parcel Delivery Application",
+        "category":"A mobile driven implementation for a parcel delivery system. The android app can be used by senders, drivers and admins with specific roles. Rest services are used with Springboot.",
+        "image":"01.jpg",
+        "url":"https://github.com/Thamaltw97/Parcel-Delivery-App"
+      },
+      {
+        "title":"Online Shopping Cart System",
+        "category":"An e-commerce website for clothings. Application Frameworks Project, SLIIT, 3rd Year.",
+        "image":"01.jpg",
+        "url":"https://github.com/Thamaltw97/Online-Shopping-Cart-System-SLIIT"
+      },
+      {
+        "title":"Covid-19 Tracker Dashboard",
+        "category":"Frontend covid-19 tracker dashboard including various information, created using government health API.",
+        "image":"01.jpg",
+        "url":"https://github.com/Thamaltw97/Covid-19-Tracker-Dashboard"
+      }
+    ]
+  }
+}
