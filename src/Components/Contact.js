@@ -178,10 +178,11 @@ const Contact = (props) => {
                   <div>
                     <div className="icon" style={{display: "flex", flexDirection: "row"}}><ImLocation color="#fff" size="2rem" /><h4 style={{marginLeft: "1.5rem"}}>Address</h4></div>
                     {!props.data ? null : props.data.address.street1} <br />
-                    {!props.data ? null : props.data.address.street2} <br />
-                    {!props.data ? null : props.data.address.city}
-                    {/* <br /> {state}  */}
-                    <br /> {!props.data ? null : props.data.address.country} <br /> {!props.data ? null : props.data.address.zip}
+                    {/* {!props.data ? null : props.data.address.street2} <br />  */}
+                    {!props.data ? null : props.data.address.city} <br />
+                    {!props.data ? null : props.data.address.state}
+                    <br /> {!props.data ? null : props.data.address.zip}
+                    <br /> {!props.data ? null : props.data.address.country}
                   </div>
                   
                   <br />
