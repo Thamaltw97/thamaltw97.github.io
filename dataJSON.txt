@@ -3,7 +3,7 @@
     "name":"Hi, I'm Thamal 😍👋",
     "description":"Thamal is a software engineer, who is capeble of doing what you need over his technologies.",
     "image":"profilepic.jpg",
-    "bio":"I am Thamal Wijetunge, Software Engineering specialized graduate from SLIIT and a Associate Software Engineer at DP Infotech (Pvt) Ltd. I am a confident and proactive person, possessing an analytical bent of mind. Positive approach and problem solving are my biggest assets. With exceptional planning, execution and interpersonal skills I am hard working , innovative and self-motivated team player, Also a software developer, interested in MERN stack, Android Application Developments, JavaScript, Asp.Net MVC C#, Oracle, Java, object oriented design patterns, ERP level developments and any kind of a development.",
+    "bio":"I am Thamal Wijetunge, Software Engineering specialized graduate from SLIIT, Colombo and a Former Software Engineer at DP Infotech (Pvt) Ltd, Colombo. I am a confident and proactive person, possessing an analytical bent of mind. Positive approach and problem solving are my biggest assets. With exceptional planning, execution and interpersonal skills I am hard working, innovative and self-motivated team player, Also a software developer, interested in MERN stack, Android Application Developments, JavaScript, Asp.Net MVC C#, Oracle, Java, object oriented design patterns, ERP level developments and any kind of a development.",
     "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
     "email": "youremailhere@gmail.com",
     "phone": "555-555-5555",
@@ -63,6 +63,12 @@
       }
     ],
     "work":[
+      {
+        "company":"DP Infotech (Pvt) Ltd",
+        "title":"Software Engineer",
+        "years":"September 2022 - December 2022",
+        "description":"• Drafted software requirements and managed software design and implementation. \n• Implemented new modules into the current ERP system. \n• Full implementation of Pearl-bay system with ERP and POS system for the David Peiris water park. \n• Developed, coordinated and conducted complex tests and debug the systems. \n• Managed software throughout SDLC and collaborated with team members to address issues. \n• Defined and continuously improved UI development best practices."
+      },
       {
         "company":"DP Infotech (Pvt) Ltd",
         "title":"Associate Software Engineer",
