@@ -69,9 +69,18 @@ class Resume extends Component {
                 <div className="twelve columns">
                   {/* {education} */}
                   <div>
+                    <h3>Ontario College Graduate Certificate in Computer Software and Database Development</h3>
+                    <p className="info">
+                      Loyalist College in Toronto-Victoria Park Campus, Ontario <span>&bull;</span>
+                      <em className="date">August 2024</em>
+                    </p>
+                    <p style={{marginBottom: "0.1rem"}}></p>
+                    <p></p>
+                  </div>
+                  <div>
                     <h3>Bachelor of Science (Honours) in Information Technology Specializing in Software Engineering</h3>
                     <p className="info">
-                      Sri Lanka Institute of Information Technology <span>&bull;</span>
+                      Sri Lanka Institute of Information Technology, Sri Lanka <span>&bull;</span>
                       <em className="date">July 2021</em>
                     </p>
                     <p style={{marginBottom: "0.1rem"}}>• Completed the 4th year research on Intelligent system for agriculture in Sri Lanka, using Android with Java and Python with Tensorflow lite.</p>
@@ -102,17 +111,26 @@ class Resume extends Component {
             <div className="nine columns main-col">
               {/* {work} */}
               <div>
+                <h3>Software Engineer</h3>
+                <p className="info">
+                  DP Infotech (Pvt) Ltd
+                  <span>&bull;</span> <em className="date">September 2022 - December 2022</em>
+                </p>
+                <p style={{marginBottom: "0.1rem"}}>• Completion of the Pearl Bay system with ERP and POS system for the David Pieris water park using ReactJS, NodeJS, ExpressJS & MongoDB.</p>
+                <p style={{marginBottom: "0.1rem"}}>• Implemented new modules into the current ERP system.</p>
+                <p>• Implemented Management Accounts module into the current ERP system of David Pieris Group using JavaScript with jQuery, .NET Core & Oracle database.</p>
+              </div>
+              <div>
                 <h3>Associate Software Engineer</h3>
                 <p className="info">
                   DP Infotech (Pvt) Ltd
-                  <span>&bull;</span> <em className="date">October 2020 - Present</em>
+                  <span>&bull;</span> <em className="date">October 2020 - August 2022</em>
                 </p>
-                <p style={{marginBottom: "0.1rem"}}>• Full implementation of Pearl-bay system with ERP and POS system for the David Peiris water park.</p>
+                <p style={{marginBottom: "0.1rem"}}>• Full design and implementation of Pearl Bay system with ERP and POS system for the David Pieris water park using ReactJS, NodeJS, ExpressJS & MongoDB.</p>
                 <p style={{marginBottom: "0.1rem"}}>• Drafted software requirements and managed software design and implementation.</p>
-                <p style={{marginBottom: "0.1rem"}}>• Implemented new modules into the current ERP system.</p>
-                <p style={{marginBottom: "0.1rem"}}>• Developed, coordinated and conducted complex tests and debug the systems.</p>
+                <p style={{marginBottom: "0.1rem"}}>• Developed, coordinated and conducted complex tests and debugged the systems.</p>
                 <p style={{marginBottom: "0.1rem"}}>• Managed software throughout SDLC and collaborated with team members to address issues.</p>
-                <p>• Defined and continuously improved UI development best practices.</p>
+                <p>• Implemented Workshop module into the current ERP system of David Pieris Group using JavaScript with jQuery, .NET Core & Oracle database.</p>
               </div>
               {/* <br/> */}
               <div>
@@ -121,9 +139,9 @@ class Resume extends Component {
                   DP Infotech (Pvt) Ltd
                   <span>&bull;</span> <em className="date">November 2019 - September 2020</em>
                 </p>
-                <p style={{marginBottom: "0.1rem"}}>• Drafted software requirements and managed software design and implementation.</p>
-                <p style={{marginBottom: "0.1rem"}}>• Implemented new modules into the current ERP system.</p>
-                <p>• Managed software throughout SDLC and collaborated with team members to address issues.</p>
+                <p style={{marginBottom: "0.1rem"}}>• Implemented new modules (Imports, Technical) into the current ERP system of David Pieris Group using JavaScript with jQuery, .NET Core & Oracle database.</p>
+                <p style={{marginBottom: "0.1rem"}}>• Managed software throughout SDLC and collaborated with team members to address issues.</p>
+                <p>• Gained knowledge in ERP level systems, Oracle database development and web development.</p>
               </div>
             </div>
           </div>
