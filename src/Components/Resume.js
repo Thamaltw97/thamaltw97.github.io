@@ -74,7 +74,7 @@ class Resume extends Component {
                       Loyalist College in Toronto-Victoria Park Campus, Ontario <span>&bull;</span>
                       <em className="date">August 2024</em>
                     </p>
-                    <p style={{marginBottom: "0.1rem"}}>• Complet</p>
+                    <p style={{marginBottom: "0.1rem"}}>• CGPA : 87%</p>
                     <p></p>
                   </div>
                   <div>

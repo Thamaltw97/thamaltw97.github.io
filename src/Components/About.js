@@ -8,7 +8,7 @@ class About extends Component {
     if (!this.props.data) return null;
 
     const name = this.props.data.name;
-    const profilepic = "../../public/images" + this.props.data.image;
+    const profilepic = "images/thamalpropic.jpg";
     const resume = "documents/thamalwijetunge.pdf";
     const bio = this.props.data.bio;
     const street = this.props.data.address.street;
