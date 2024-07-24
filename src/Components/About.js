@@ -1,13 +1,14 @@
 import React, { Component } from "react";
 import Fade from "react-reveal";
 // import resume from "../../public/documents/thamalwijetunge.pdf";
+// import resume from "../../public/images";
 
 class About extends Component {
   render() {
     if (!this.props.data) return null;
 
     const name = this.props.data.name;
-    const profilepic = "images/" + this.props.data.image;
+    const profilepic = "../../public/images" + this.props.data.image;
     const resume = "documents/thamalwijetunge.pdf";
     const bio = this.props.data.bio;
     const street = this.props.data.address.street;

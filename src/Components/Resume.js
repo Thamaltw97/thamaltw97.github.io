@@ -74,7 +74,7 @@ class Resume extends Component {
                       Loyalist College in Toronto-Victoria Park Campus, Ontario <span>&bull;</span>
                       <em className="date">August 2024</em>
                     </p>
-                    <p style={{marginBottom: "0.1rem"}}></p>
+                    <p style={{marginBottom: "0.1rem"}}>• Complet</p>
                     <p></p>
                   </div>
                   <div>
@@ -116,7 +116,7 @@ class Resume extends Component {
                   DP Infotech (Pvt) Ltd
                   <span>&bull;</span> <em className="date">September 2022 - December 2022</em>
                 </p>
-                <p style={{marginBottom: "0.1rem"}}>• Completion of the Pearl Bay system with ERP and POS system for the David Pieris water park using ReactJS, NodeJS, ExpressJS & MongoDB.</p>
+                <p style={{marginBottom: "0.1rem"}}>• Completion of the Pearl Bay system with ERP and POS system for the David Pieris water park using ReactJS, NodeJS, ExpressJS & MongoDB, which was awarded the FITIS and SLASSCOM awards.</p>
                 <p style={{marginBottom: "0.1rem"}}>• Implemented new modules into the current ERP system.</p>
                 <p>• Implemented Management Accounts module into the current ERP system of David Pieris Group using JavaScript with jQuery, .NET Core & Oracle database.</p>
               </div>
