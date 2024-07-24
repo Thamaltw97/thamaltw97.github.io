@@ -91,7 +91,8 @@
     ],
     "skills":[
       {
-        "name":"MERN Stack (MongoDB, ExpressJS, ReactJS, NodeJS)"
+        "name":"MERN Stack (MongoDB, ExpressJS, ReactJS, NodeJS)",
+        "level":"80%"
       },
       {
         "name":"Javascript",
