@@ -1,9 +1,9 @@
 {
   "main": {
     "name":"Hi, I'm Thamal 😍👋",
-    "description":"Thamal is a skilled software engineer capable of leveraging his technical expertise to meet your specific needs.",
-    "image":"thamalgradpic.png",
-    "bio":"I am Thamal Wijetunge, Software Engineering specialized graduate from SLIIT, Colombo and a former Software Engineer at DP Infotech (Pvt) Ltd, Colombo. I am a confident and proactive person, possessing an analytical bent of mind. Positive approach and problem solving are my biggest assets. With exceptional planning, execution and interpersonal skills I am hard working , innovative and self-motivated team player, Also a software developer, interested in MERN stack, Android Application Developments, JavaScript, Asp.Net MVC C#, Oracle, Java, object oriented design patterns, ERP level developments and any kind of a development.",
+    "description":"Thamal is a skilled software development engineer who can effectively use his technical skills to meet your needs.",
+    "image":"thamalpropic.png",
+    "bio":"I am Thamal Wijetunge, based in Toronto, Ontario. I hold an honours bachelor's degree in Software Engineering and an Ontario graduate certificate. With my previous experience as a Software Engineer, I am a confident and proactive individual with a strong analytical mindset. My strengths lie in positive thinking and problem-solving. I possess exceptional planning, execution, and interpersonal skills, making me a hardworking, innovative, and self-motivated team player. My expertise includes the MERN stack, Android app development, JavaScript, ASP.NET MVC C#, Oracle, Java, object-oriented design patterns, and ERP-level development.",
     "contactmessage":"Contact me for your recruitments and other projects. Connect with me via social media.",
     "email": "thamaltw97@outlook.com",
     "phone": "+1-647-838-2223",
@@ -54,7 +54,7 @@
         "school":"Loyalist College in Toronto-Victoria Park Campus, Ontario",
         "degree":"Ontario College Graduate Certificate in Computer Software and Database Development",
         "graduated":"August 2024",
-        "description":""
+        "description":"• CGPA : 87%"
       },
       {
         "school":"Sri Lanka Institute of Information Technology, Sri Lanka",
@@ -74,13 +74,13 @@
         "company":"DP Infotech (Pvt) Ltd",
         "title":"Software Engineer",
         "years":"September 2022 - December 2022",
-        "description":"• Completion of the Pearl Bay system with ERP and POS system for the David Pieris water park using ReactJS, NodeJS, ExpressJS & MongoDB. \n• Implemented new modules into the current ERP system. \n• Implemented Management Accounts module into the current ERP system of David Pieris Group using JavaScript with jQuery, .NET Core & Oracle database."
+        "description":"• Completion of the Pearl Bay system with ERP and POS system for the David Pieris water park using ReactJS, NodeJS, ExpressJS & MongoDB, which was awarded the FITIS and SLASSCOM awards. \n• Implemented new modules into the current ERP system. \n• Implemented Management Accounts module into the current ERP system of David Pieris Group using JavaScript with jQuery, .NET Core & Oracle database."
       },
       {
         "company":"DP Infotech (Pvt) Ltd",
         "title":"Associate Software Engineer",
         "years":"October 2020 - August 2022",
-        "description":"• Full design and implementation of Pearl Bay system with ERP and POS system for the David Pieris water park using ReactJS, NodeJS, ExpressJS & MongoDB. \n• Drafted software requirements and managed software design and implementation. \n• Developed, coordinated and conducted complex tests and debugged the systems. \n• Managed software throughout SDLC and collaborated with team members to address issues. \n• Implemented Workshop module into the current ERP system of David Pieris Group using JavaScript with jQuery, .NET Core & Oracle database."
+        "description":"• Full design and implementation of Pearl Bay system with ERP and POS system for the David Pieris water park using ReactJS, NodeJS, ExpressJS & MongoDB. \n• Implemented Workshop module into the current ERP system of David Pieris Group using JavaScript with jQuery, .NET Core & Oracle database. \n• Drafted software requirements and managed software design and implementation. \n• Developed, coordinated and conducted complex tests and debugged the systems. \n• Managed software throughout SDLC and collaborated with team members to address issues."
       },
       {
         "company":"DP Infotech (Pvt) Ltd",
@@ -91,8 +91,7 @@
     ],
     "skills":[
       {
-        "name":"MERN Stack (MongoDB, ExpressJS, ReactJS, NodeJS)",
-        "level":"80%"
+        "name":"MERN Stack (MongoDB, ExpressJS, ReactJS, NodeJS)"
       },
       {
         "name":"Javascript",
